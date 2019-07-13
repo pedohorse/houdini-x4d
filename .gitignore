@@ -1,4 +1,9 @@
 **/backup
 render
+geo
+img
 *.project
 redo*
+*.hip
+!example*.hip
+otls/_nosync_*
