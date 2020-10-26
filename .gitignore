@@ -8,3 +8,4 @@ redo*
 *.hip
 !example*.hip
 otls/_nosync_*
+*_internal
